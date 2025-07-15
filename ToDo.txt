@@ -1,21 +1,14 @@
-# = still needs to be completed
-## = task is finished but keeping notes 
+##############Tasks##################
 
-
-
+#make steam force use nivida GPU 
 #auto lunch fastfetch
+#write bash script to instill all prefferd programs
+#write bash script to set up hyprland with all my config files and settings
 #config monitor in hypr.config file
 #set up fn keys to controll volume and brightness - https://wiki.archlinux.org/title/Hyprland#Media_keys
-# figure out why I cannot use zeditor in command line - Check youtube on setting up keybindings for help. Look into zed theams
 #fastfetch is installed - need to change configfiles
-#install nvidia drivers
-    -https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_switchable_graphics
-    -
-#install yay
 #install chatoic aur
 #install valdia and remove firefox
-#install steam
-#install git
 #get keyboard back light to work
 #install waypaper
 #configure SDDM
@@ -24,6 +17,15 @@
 #replace kitty config
 #get timeshift working
 #back up files on USb
+#set up alias in .bashrc "clear = cls"
+
+##########Completed Tasks###########
+#install steam
+#install yay
+#install nvidia drivers
+    -https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_switchable_graphics
+#install steam
+#install git
 #set up git repo
-#set up alias for clear
-#look up kate vs zed 
+
+
