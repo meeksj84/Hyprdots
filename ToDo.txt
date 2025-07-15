@@ -1,5 +1,6 @@
 ##############Tasks##################
 
+#look into See https://wiki.hypr.land/Configuring/Keywords/ to edit hyprland config for my programs
 #make steam force use nivida GPU 
 #auto lunch fastfetch
 #write bash script to instill all prefferd programs
