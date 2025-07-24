@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-##############Tasks##################
 
-#look into See https://wiki.hypr.land/Configuring/Keywords/ to edit hyprland config for my programs
-#make steam force use nivida GPU 
-#auto lunch fastfetch
-#write bash script to instill all prefferd programs
-#write bash script to set up hyprland with all my config files and settings
-=======
 /////////Tasks\\\\\\\\\\\\\\\\
 
 #sort completed list in numerical order
@@ -29,14 +21,6 @@
 #back up files on USb
 #set up alias in .bashrc "clear = cls"
 
-<<<<<<< HEAD
-##########Completed Tasks###########
-#install steam
-#install yay
-#install nvidia drivers
-    -https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_switchable_graphics
-#install steam
-=======
 
 //////////Research\\\\\\\\\\\\\
 
@@ -46,13 +30,12 @@
 
 /////////Completed Tasks\\\\\\\\
 
-#install steam (use pacman or yay,not flatpak. hyprland config file and scripts will need to be modifided)
+#install git 
 #install yay
+#install steam (use pacman or yay,not flatpak. hyprland config file and scripts will need to be modifided)
 #install nvidia drivers ( I had chat GPT make bash scripts for this )
     -https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_switchable_graphics
 #install steam (needs to be added to install.sh)
->>>>>>> 86e7d20 (update files and configs)
-#install git
 #set up git repo
 
 
