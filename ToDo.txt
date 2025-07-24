@@ -1,0 +1,58 @@
+<<<<<<< HEAD
+##############Tasks##################
+
+#look into See https://wiki.hypr.land/Configuring/Keywords/ to edit hyprland config for my programs
+#make steam force use nivida GPU 
+#auto lunch fastfetch
+#write bash script to instill all prefferd programs
+#write bash script to set up hyprland with all my config files and settings
+=======
+/////////Tasks\\\\\\\\\\\\\\\\
+
+#sort completed list in numerical order
+#source hyprland.conf files
+#auto lunch fastfetch
+#write bash script ''install.sh'' to set up hyprland with all my config files,programs,and settings
+>>>>>>> 86e7d20 (update files and configs)
+#config monitor in hypr.config file
+#set up fn keys to controll volume and brightness - https://wiki.archlinux.org/title/Hyprland#Media_keys
+#fastfetch is installed - need to change configfiles
+#install chatoic aur
+#install valdia and remove firefox
+#get keyboard back light to work
+#install waypaper
+#configure SDDM
+#install waybar
+#install JLM prrgrams (gnu cash, office program, check notebooks)
+#replace kitty config
+#get timeshift working
+#back up files on USb
+#set up alias in .bashrc "clear = cls"
+
+<<<<<<< HEAD
+##########Completed Tasks###########
+#install steam
+#install yay
+#install nvidia drivers
+    -https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_switchable_graphics
+#install steam
+=======
+
+//////////Research\\\\\\\\\\\\\
+
+#Can the font for my Grub loader be inlarged
+#look into See https://wiki.hypr.land/Configuring/Keywords/ to edit hyprland config for my programs
+
+
+/////////Completed Tasks\\\\\\\\
+
+#install steam (use pacman or yay,not flatpak. hyprland config file and scripts will need to be modifided)
+#install yay
+#install nvidia drivers ( I had chat GPT make bash scripts for this )
+    -https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_switchable_graphics
+#install steam (needs to be added to install.sh)
+>>>>>>> 86e7d20 (update files and configs)
+#install git
+#set up git repo
+
+

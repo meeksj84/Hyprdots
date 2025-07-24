@@ -1,0 +1,9 @@
+### List of packages I installed after set up ###
+kate= text editor
+steam = Game launcher
+yay = arch repo
+git =
+fastfetch = system information utility
+brightnessctl = Lightweight brightness control tool
+meld = tool for comparing files and directories
+
