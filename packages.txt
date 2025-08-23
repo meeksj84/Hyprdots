@@ -7,5 +7,5 @@ fastfetch = system information utility
 brightnessctl = Lightweight brightness control tool
 meld = tool for comparing files and directories
 timeshift - system recovery tool
-vivaldi - browser -  "yay -S vivaldi"
+vivaldi - Web browser -  "yay -S vivaldi"
 

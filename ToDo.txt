@@ -4,13 +4,18 @@
 #sort completed list in numerical order
 #source hyprland.conf files
 #auto lunch fastfetch
+#add keyboard back lighting keybindings to hyprland config file
+#set up firewall 
+
 #write bash script ''install.sh'' to set up hyprland with all my config files,programs,and settings
->>>>>>> 86e7d20 (update files and configs)
+
 #config monitor in hypr.config file
-#set up fn keys to controll volume and brightness - https://wiki.archlinux.org/title/Hyprland#Media_keys
+
+#set up fn keys to controll volume and brightness - https://wiki.archlinux.org
+title/Hyprland#Media_keys
+
 #fastfetch is installed - need to change configfiles
 #install chatoic aur
-#install valdia and remove firefox
 #get keyboard back light to work
 #install waypaper
 #configure SDDM
@@ -32,10 +37,9 @@
 
 #install git 
 #install yay
+#install vivaldi
 #install steam (use pacman or yay,not flatpak. hyprland config file and scripts will need to be modifided)
-#install nvidia drivers ( I had chat GPT make bash scripts for this )
-    -https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_switchable_graphics
-#install steam (needs to be added to install.sh)
+#install nvidia drivers - Need to read doc on this.
 #set up git repo
 
 
