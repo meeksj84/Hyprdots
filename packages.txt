@@ -1,11 +1,19 @@
 ### List of packages I installed after set up ###
-kate= text editor
-steam = Game launcher
-yay = arch repo
-git =
-fastfetch = system information utility
-brightnessctl = Lightweight brightness control tool
-meld = tool for comparing files and directories
-timeshift - system recovery tool
-vivaldi - Web browser -  "yay -S vivaldi"
+1)kate= text editor
+2)steam = Game launcher
+3)yay = arch repo
+4)git =
+5)fastfetch = system information utility
+6)brightnessctl = Lightweight brightness control tool
+7)meld = tool for comparing files and directories
+8)timeshift - system recovery tool
 
+
+
+######yay list######
+1)yay -S optimus-manager - nvidia gpu switching (need to verify that>
+    sudo systemctl enable optimus-manager.service
+    sudo systemctl start optimus-manager.service
+    optimus-manager --switch nvidia
+2)bluetuith - CLI for bluetooth managment
+3)9)vivaldi - Web browser -  "yay -S vivaldi"

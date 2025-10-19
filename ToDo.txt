@@ -2,6 +2,7 @@
 /////////Tasks\\\\\\\\\\\\\\\\
 
 #sort completed list in numerical order
+#copy bash.rc over to Hyprdots/Config
 #source hyprland.conf files
 #auto lunch fastfetch
 #add keyboard back lighting keybindings to hyprland config file
