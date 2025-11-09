@@ -1,7 +1,6 @@
 
 /////////Tasks\\\\\\\\\\\\\\\\
 
-#sort completed list in numerical order
 #copy bash.rc over to Hyprdots/Config
 #source hyprland.conf files
 #auto lunch fastfetch
@@ -11,7 +10,7 @@
 #write bash script ''install.sh'' to set up hyprland with all my config files,programs,and settings
 
 #config monitor in hypr.config file
-
+#set up waybar
 #set up fn keys to controll volume and brightness - https://wiki.archlinux.org
 title/Hyprland#Media_keys
 
