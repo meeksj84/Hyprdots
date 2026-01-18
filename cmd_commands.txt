@@ -1,0 +1,17 @@
+#List of command that I cannot remember.
+
+-pacman -Syu "System wide update"
+-lspci | grep -E "VGA|3D|Display" "Show detected hardware"
+
+
+
+#Git commands
+-git init "initalize a repo"
+-git add . "Adds all files"
+-git commit -m "Initial commit" "Commit changes"
+-git push -u origin master or Main "Push to the remote"
+
+-git remote add origin https://github.com/USERNAME/REPO.git "Add a remote repsoitory"
+
+
+

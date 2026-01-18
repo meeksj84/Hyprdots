@@ -7,8 +7,10 @@
 6)brightnessctl = Lightweight brightness control tool
 7)meld = tool for comparing files and directories
 8)timeshift - system recovery tool
-
-
+9)less = is a terminal pager program.
+10)waybar
+11)jq = JSON parser 
+12)waypaper
 
 ######yay list######
 1)yay -S optimus-manager - nvidia gpu switching (need to verify that>
@@ -17,3 +19,5 @@
     optimus-manager --switch nvidia
 2)bluetuith - CLI for bluetooth managment
 3)9)vivaldi - Web browser -  "yay -S vivaldi"
+4)waypaper
+5)wallhaven-cli

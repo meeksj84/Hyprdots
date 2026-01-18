@@ -1,6 +1,7 @@
 
 /////////Tasks\\\\\\\\\\\\\\\\
 
+#waypaper is installed, but needs the correct backend to work. this needs added and my two waypaper scripts need to be modfied.
 #copy bash.rc over to Hyprdots/Config
 #source hyprland.conf files
 #auto lunch fastfetch
@@ -19,7 +20,7 @@ title/Hyprland#Media_keys
 #get keyboard back light to work
 #install waypaper
 #configure SDDM
-#install waybar
+#change waybar time to 12 hour format
 #install JLM prrgrams (gnu cash, office program, check notebooks)
 #replace kitty config
 #get timeshift working
@@ -38,6 +39,7 @@ title/Hyprland#Media_keys
 #install git 
 #install yay
 #install vivaldi
+#install waybar
 #install steam (use pacman or yay,not flatpak. hyprland config file and scripts will need to be modifided)
 #install nvidia drivers - Need to read doc on this.
 #set up git repo
